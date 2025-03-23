@@ -7,3 +7,8 @@ A visual email template builder which uses Resend email components
 - Visual/Drag-n-Drop email template builder with code modification functionality
 - Undo and Redo functionality
 - Export (html, component export, JSON_like export)
+
+
+### Ref
+- [Resend Docs](https://react.email/docs/introduction)
+- [Resend Template](https://demo.react.email/)
